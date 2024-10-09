@@ -55,5 +55,6 @@
 | ![CodeHub](https://codehub_icon.png) CodeHub (servidor)  | Um grande servidor Discord com foco em desenvolvimento, tecnologias e seus próprios projetos. Eu sou um dos 3 administradores deste servidor. |
 | ![CoreUnit.NET](https://coreunit_icon.png) CoreUnit.NET (servidor) | Um servidor Discord multilíngue com foco na minha comunidade de jogos e música do Twitch (de/en). |
 | ![Discord](https://discord_icon.png) Discord (direto)     | Você pode entrar em contato comigo aqui se precisar de ajuda ou quiser entrar em contato. |
-| ![Telegram]([https://telegram_icon.png](https://github.com/NobleMajo/NobleMajo/blob/main/telegram-icon.png?raw=true)) Telegram (direto)  | Às vezes você pode entrar em contato comigo aqui. |
+| ![Telegram](![image](https://github.com/user-attachments/assets/68bcb53d-f678-4b4b-b9fd-6aa6a40c061b)
+) Telegram (direto)  | Às vezes você pode entrar em contato comigo aqui. |
 
