@@ -102,5 +102,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=WandersonOlliveira&show_icons=true&theme=tokyonight)
 <br>
 
+![Badges](https://img.shields.io/badge/Badge_Name-Value-brightgreen)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WandersonOlliveira&layout=compact&theme=synthwave)
 
