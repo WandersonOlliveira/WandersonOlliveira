@@ -1,6 +1,29 @@
 ## Hi there 👋
 
 ## 🛠 Tecnologias com as quais gosto de trabalhar:
+## Como desenvolvedor apaixonado por tecnologia, tenho o privilégio de trabalhar com uma variedade de ferramentas e frameworks que potencializam minha capacidade de criar soluções inovadoras e eficientes. Aqui estão algumas das tecnologias que utilizei em meus projetos e cursos:
+
+## HTML5 e CSS3: Domínio em construção de estruturas web semânticas e design responsivo, garantindo uma experiência de usuário agradável e intuitiva.
+
+## JavaScript e TypeScript: Proficiência em programação dinâmica e tipada, permitindo a criação de aplicações interativas e escaláveis.
+
+## React e React Native: Experiência em desenvolvimento de interfaces de usuário com foco em desempenho e reatividade, além de aplicações móveis de alta qualidade.
+
+## Tailwind CSS, Bootstrap e Bulma: Habilidade em aplicar frameworks de design para garantir interfaces atraentes e funcionais.
+
+## Node.js e Express.js: Conhecimento em desenvolvimento de back-end, criando APIs robustas e eficientes.
+
+## PostgreSQL e MySQL: Experiência em gerenciamento e modelagem de bancos de dados, com foco na persistência e recuperação de dados.
+
+## Git e GitHub: Habilidade em versionamento de código e colaboração em equipe, promovendo um fluxo de trabalho organizado e eficiente.
+
+## Prisma ORM e Next.js: Conhecimento em ferramentas modernas para gerenciamento de dados e desenvolvimento de aplicações web de alto desempenho.
+
+## Sass e UI/UX Design: Certificação em pré-processadores CSS e princípios de design, garantindo que as aplicações não apenas funcionem bem, mas também ofereçam uma experiência visual impactante.
+
+## Estou sempre em busca de aprimorar minhas habilidades e expandir meu conhecimento, pois acredito que a aprendizagem contínua é a chave para o sucesso no mundo da tecnologia. Estou aberto a novos desafios e ansioso para contribuir em projetos que impulsionem a inovação e a criatividade.
+
+
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
