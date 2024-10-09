@@ -102,5 +102,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=WandersonOlliveira&show_icons=true&theme=highcontrast)
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WandersonOlliveira&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WandersonOlliveira&layout=compact&theme=synthwave)
 
