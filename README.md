@@ -4,11 +4,11 @@
 
 ## Como desenvolvedor apaixonado por tecnologia, tenho o privilégio de trabalhar com uma variedade de ferramentas e frameworks que potencializam minha capacidade de criar soluções inovadoras e eficientes. Aqui estão algumas das tecnologias que utilizei em meus projetos e cursos:
 <br>
+<br>
+
 <span style="font-size: 16px;">
   🛠 HTML5 e CSS3: Domínio em construção de estruturas web semânticas e design responsivo, garantindo uma experiência de usuário agradável e intuitiva.
 </span>
-<br>
-<br>
 <br>
 <br>
 
@@ -16,44 +16,54 @@
   🛠 JavaScript e TypeScript: Proficiência em programação dinâmica e tipada, permitindo a criação de aplicações interativas e escaláveis.
 </span>
 <br>
+<br>
 
 <span style="font-size: 16px;">
   🛠 React e React Native: Experiência em desenvolvimento de interfaces de usuário com foco em desempenho e reatividade, além de aplicações móveis de alta qualidade.
 </span>
 <br>
+<br>
 
 <span style="font-size: 16px;">
   🛠 Tailwind CSS, Bootstrap e Bulma: Habilidade em aplicar frameworks de design para garantir interfaces atraentes e funcionais.
 </span>
+<br>
+<br>
 
 <span style="font-size: 16px;">
   🛠 Node.js e Express.js: Conhecimento em desenvolvimento de back-end, criando APIs robustas e eficientes.
 </span>
+<br>
 <br>
 
 <span style="font-size: 16px;">
   🛠 PostgreSQL e MySQL: Experiência em gerenciamento e modelagem de bancos de dados, com foco na persistência e recuperação de dados.
 </span>
 <br>
+<br>
 
 <span style="font-size: 16px;">
   🛠 Git e GitHub: Habilidade em versionamento de código e colaboração em equipe, promovendo um fluxo de trabalho organizado e eficiente.
 </span>
+<br>
 <br>
 
 <span style="font-size: 16px;">
   🛠 Prisma ORM e Next.js: Conhecimento em ferramentas modernas para gerenciamento de dados e desenvolvimento de aplicações web de alto desempenho.
 </span>
 <br>
+<br>
 
 <span style="font-size: 16px;">
   🛠 Sass e UI/UX Design: Certificação em pré-processadores CSS e princípios de design, garantindo que as aplicações não apenas funcionem bem, mas também ofereçam uma experiência visual impactante.
 </span>
 <br>
+<br>
 
 <span style="font-size: 16px;">
   🚀 Estou sempre em busca de aprimorar minhas habilidades e expandir meu conhecimento, pois acredito que a aprendizagem contínua é a chave para o sucesso no mundo da tecnologia. Estou aberto a novos desafios e ansioso para contribuir em projetos que impulsionem a inovação e a criatividade.
 </span>
+<br>
 <br>
 
 
