@@ -102,8 +102,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=WandersonOlliveira&show_icons=true&theme=tokyonight)
 <br>
 
-![Tech Stack](https://img.shields.io/badge/JavaScript-ES6-f7df1e?style=flat-square&logo=javascript&logoColor=white)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WandersonOlliveira&layout=compact&theme=synthwave)
 
