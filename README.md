@@ -47,3 +47,13 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/-UI%2FUX-F1F1F1?style=for-the-badge&logo=figma&logoColor=black)
 ![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
+
+## Entre em contato comigo
+
+| Serviço           | Descrição                                                  |
+|-------------------|-----------------------------------------------------------|
+| ![CodeHub](https://example.com/codehub_icon.png) CodeHub (servidor)  | Um grande servidor Discord com foco em desenvolvimento, tecnologias e seus próprios projetos. Eu sou um dos 3 administradores deste servidor. |
+| ![CoreUnit.NET](https://example.com/coreunit_icon.png) CoreUnit.NET (servidor) | Um servidor Discord multilíngue com foco na minha comunidade de jogos e música do Twitch (de/en). |
+| ![Discord](https://example.com/discord_icon.png) Discord (direto)     | Você pode entrar em contato comigo aqui se precisar de ajuda ou quiser entrar em contato. |
+| ![Telegram](https://example.com/telegram_icon.png) Telegram (direto)  | Às vezes você pode entrar em contato comigo aqui. |
+
