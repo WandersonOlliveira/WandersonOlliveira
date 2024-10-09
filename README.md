@@ -47,19 +47,3 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/-UI%2FUX-F1F1F1?style=for-the-badge&logo=figma&logoColor=black)
 ![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
-
-
-<h1 align="left"><u>Entre em contato comigo</u></h1>
-
-<table>
-    <tbody>
-        <tr>
-            <td width="92px">
-                <img align="center" src="https://raw.githubusercontent.com/WandersonOlliveira/WandersonOlliveira/main/telegram-icon.png" height="64" width="64" alt="D" />
-            </td>
-            <td width="100px" align="center"><a href="https://telegram.me/WandersonOlliveira" target="blank">Telegram<br><i>(direct)</i></a></td>
-            <td>Às vezes você pode me encontrar aqui.</td>
-        </tr>
-    </tbody>
-</table>
-
