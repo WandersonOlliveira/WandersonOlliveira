@@ -93,4 +93,5 @@
 ![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
 
 ## Contato
-📞 [Entre em contato comigo pelo WhatsApp!](https://wa.me/5568999435959)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/5568999435959)
+
