@@ -1,4 +1,3 @@
-## Hi there 👋
 
 ## 🛠🚀 Tecnologias com as quais gosto de trabalhar:
 
