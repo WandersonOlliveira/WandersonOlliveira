@@ -99,9 +99,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/wanderson-de-oliveira-9a6399236)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/)
 
-![Linguagem principal](https://img.shields.io/badge/Linguagem-JavaScript-brightgreen)
-![Status do Build](https://img.shields.io/badge/Build-passing-brightgreen)
-![Licença](https://img.shields.io/badge/Licença-MIT-yellow)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=WandersonOlliveira&show_icons=true&theme=tokyonight)
 <br>
