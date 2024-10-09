@@ -91,3 +91,6 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/-UI%2FUX-F1F1F1?style=for-the-badge&logo=figma&logoColor=black)
 ![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
+
+## Contato
+📞 [Entre em contato comigo pelo WhatsApp!](https://wa.me/5568999435959)
