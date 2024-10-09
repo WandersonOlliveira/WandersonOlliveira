@@ -48,13 +48,39 @@
 ![UI/UX](https://img.shields.io/badge/-UI%2FUX-F1F1F1?style=for-the-badge&logo=figma&logoColor=black)
 ![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
 
-## Entre em contato comigo
 
-| Serviço           | Descrição                                                  |
-|-------------------|-----------------------------------------------------------|
-| ![CodeHub](https://codehub_icon.png) CodeHub (servidor)  | Um grande servidor Discord com foco em desenvolvimento, tecnologias e seus próprios projetos. Eu sou um dos 3 administradores deste servidor. |
-| ![CoreUnit.NET](https://coreunit_icon.png) CoreUnit.NET (servidor) | Um servidor Discord multilíngue com foco na minha comunidade de jogos e música do Twitch (de/en). |
-| ![Discord](https://discord_icon.png) Discord (direto)     | Você pode entrar em contato comigo aqui se precisar de ajuda ou quiser entrar em contato. |
-| ![Telegram](![image](https://github.com/user-attachments/assets/68bcb53d-f678-4b4b-b9fd-6aa6a40c061b)
-) Telegram (direto)  | Às vezes você pode entrar em contato comigo aqui. |
+<h1 align="left"><u>Entre em contato comigo</u></h1>
+
+<table>
+    <tbody>
+        <tr>
+            <td width="92px">
+                <img align="center" src="https://cdn.discordapp.com/icons/759424063130304592/0c249ee1a23bd231f5c65c3248558a4f.png?size=1024" height="64" width="64" alt="P" />
+            </td>
+            <td width="100px" align="center"><a href="https://discord.gg/Urh6EfJj7N" target="blank">CodeHub<br><i>(server)</i></a></td>
+            <td>A large Discord server with a focus on development, technologies, your own projects and 😋 your skill issues. I am one of the 3 admins of this server.</td>
+        </tr>
+        <tr>
+            <td width="92px">
+                <img align="center" src="https://avatars.githubusercontent.com/u/66523802?s=1024&v=4" height="64" width="64" alt="C" />
+            </td>
+            <td width="100px" align="center"><a href="https://dc.gg/majo" target="blank">CoreUnit.NET<br><i>(server)</i></a></td>
+            <td>A multilingual discord server with a focus on my gaming and music twitch community (de/en).</td>
+        </tr>
+        <tr>
+            <td width="92px">
+                <img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="64" width="64" alt="D" />
+            </td>
+            <td width="100px" align="center"><a href="https://discord.com/users/422136037503008808" target="blank">Discord<br><i>(direct)</i></a></td>
+            <td>You can reach me here if you need help or want to get in touch.</td>
+        </tr>
+        <tr>
+            <td width="92px">
+                <img align="center" src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/telegram-icon.png" height="64" width="64" alt="D" />
+            </td>
+            <td width="100px" align="center"><a href="https://telegram.me/NobleMajo" target="blank">Telegram<br><i>(direct)</i></a></td>
+            <td>You can sometimes reach me here.</td>
+        </tr>
+    </tbody>
+</table>
 
