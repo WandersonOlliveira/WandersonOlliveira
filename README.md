@@ -102,5 +102,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=WandersonOlliveira&show_icons=true&theme=tokyonight)
 <br>
 
+![Contributions](https://github.com/SEU_NOME_DE_USUARIO/github-readme-stats/raw/master/generated/overview.svg)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WandersonOlliveira&layout=compact&theme=synthwave)
 
