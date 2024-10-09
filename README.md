@@ -100,5 +100,7 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=WandersonOlliveira&show_icons=true&theme=radical)
+<br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WandersonOlliveira&layout=compact&theme=radical)
 
