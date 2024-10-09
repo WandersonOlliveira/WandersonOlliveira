@@ -8,6 +8,9 @@
   🛠 HTML5 e CSS3: Domínio em construção de estruturas web semânticas e design responsivo, garantindo uma experiência de usuário agradável e intuitiva.
 </span>
 <br>
+<br>
+<br>
+<br>
 
 <span style="font-size: 16px;">
   🛠 JavaScript e TypeScript: Proficiência em programação dinâmica e tipada, permitindo a criação de aplicações interativas e escaláveis.
